@@ -1,0 +1,24 @@
+
+/* Gray to colored on hover */
+.ultm-gray-to-color {
+	background-color: #888;
+	-o-transition: all .2s;
+	-moz-transition: all .2s;
+	-webkit-transition: all .2s;
+	-ms-transition: all .2s;
+	transition: all .2s;
+}
+
+/* Colored to gray on hover */
+.ultm-color-to-gray {
+	-o-transition: all .2s;
+	-moz-transition: all .2s;
+	-webkit-transition: all .2s;
+	-ms-transition: all .2s;
+	transition: all .2s;
+}
+
+.ultm-color-to-gray:hover {
+	background-color: #888;
+}
+

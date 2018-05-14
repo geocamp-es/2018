@@ -1,0 +1,14 @@
+
+/* Square */
+.ultm-48.ultm-square {
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+/* Circle */
+.ultm-48.ultm-circle {
+	-moz-border-radius: 26px;
+	-webkit-border-radius: 26px;
+	border-radius: 26px;
+}

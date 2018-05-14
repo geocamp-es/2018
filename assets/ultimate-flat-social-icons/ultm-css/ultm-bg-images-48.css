@@ -1,0 +1,64 @@
+
+/* Devices with normal screens */
+.ultm-48.ultm-twitter { background-image: url(../ultm-bg-images/20x20/twitter.png); }
+.ultm-48.ultm-rss { background-image: url(../ultm-bg-images/20x20/rss.png); }
+.ultm-48.ultm-facebook { background-image: url(../ultm-bg-images/20x20/facebook.png); }
+.ultm-48.ultm-dribbble { background-image: url(../ultm-bg-images/20x20/dribbble.png); }
+.ultm-48.ultm-vimeo { background-image: url(../ultm-bg-images/20x20/vimeo.png); }
+.ultm-48.ultm-pinterest { background-image: url(../ultm-bg-images/20x20/pinterest.png); }
+.ultm-48.ultm-instagram-1 { background-image: url(../ultm-bg-images/20x20/instagram-1.png); }
+.ultm-48.ultm-linkedin { background-image: url(../ultm-bg-images/20x20/linkedin.png); }
+.ultm-48.ultm-youtube-1 { background-image: url(../ultm-bg-images/20x20/youtube-1.png); }
+.ultm-48.ultm-skype { background-image: url(../ultm-bg-images/20x20/skype.png); }
+.ultm-48.ultm-flickr-2 { background-image: url(../ultm-bg-images/20x20/flickr-2.png); }
+.ultm-48.ultm-myspace-2 { background-image: url(../ultm-bg-images/20x20/myspace-2.png); }
+.ultm-48.ultm-google-plus-1 { background-image: url(../ultm-bg-images/20x20/google-plus-1.png); }
+.ultm-48.ultm-digg-1 { background-image: url(../ultm-bg-images/20x20/digg-1.png); }
+.ultm-48.ultm-deviantart { background-image: url(../ultm-bg-images/20x20/deviantart.png); }
+.ultm-48.ultm-wordpress { background-image: url(../ultm-bg-images/20x20/wordpress.png); }
+.ultm-48.ultm-github-1 { background-image: url(../ultm-bg-images/20x20/github-1.png); }
+.ultm-48.ultm-stumbleupon { background-image: url(../ultm-bg-images/20x20/stumbleupon.png); }
+.ultm-48.ultm-behance { background-image: url(../ultm-bg-images/20x20/behance.png); }
+.ultm-48.ultm-tumblr { background-image: url(../ultm-bg-images/20x20/tumblr.png); }
+.ultm-48.ultm-feedburner-1 { background-image: url(../ultm-bg-images/20x20/feedburner-1.png); }
+.ultm-48.ultm-android { background-image: url(../ultm-bg-images/20x20/android.png); }
+.ultm-48.ultm-apple { background-image: url(../ultm-bg-images/20x20/apple.png); }
+.ultm-48.ultm-email-1 { background-image: url(../ultm-bg-images/20x20/email-1.png); }
+.ultm-48.ultm-blogger { background-image: url(../ultm-bg-images/20x20/blogger.png); }
+
+
+/* Devices with high-resolution screens */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5) {
+
+	.ultm-48 { background-size: 20px 20px; }
+
+	.ultm-48.ultm-twitter { background-image: url(../ultm-bg-images/40x40/twitter.png); }
+	.ultm-48.ultm-rss { background-image: url(../ultm-bg-images/40x40/rss.png); }
+	.ultm-48.ultm-facebook { background-image: url(../ultm-bg-images/40x40/facebook.png); }
+	.ultm-48.ultm-dribbble { background-image: url(../ultm-bg-images/40x40/dribbble.png); }
+	.ultm-48.ultm-vimeo { background-image: url(../ultm-bg-images/40x40/vimeo.png); }
+	.ultm-48.ultm-pinterest { background-image: url(../ultm-bg-images/40x40/pinterest.png); }
+	.ultm-48.ultm-instagram-1 { background-image: url(../ultm-bg-images/40x40/instagram-1.png); }
+	.ultm-48.ultm-linkedin { background-image: url(../ultm-bg-images/40x40/linkedin.png); }
+	.ultm-48.ultm-youtube-1 { background-image: url(../ultm-bg-images/40x40/youtube-1.png); }
+	.ultm-48.ultm-skype { background-image: url(../ultm-bg-images/40x40/skype.png); }
+	.ultm-48.ultm-flickr-2 { background-image: url(../ultm-bg-images/40x40/flickr-2.png); }
+	.ultm-48.ultm-myspace-2 { background-image: url(../ultm-bg-images/40x40/myspace-2.png); }
+	.ultm-48.ultm-google-plus-1 { background-image: url(../ultm-bg-images/40x40/google-plus-1.png); }
+	.ultm-48.ultm-digg-1 { background-image: url(../ultm-bg-images/40x40/digg-1.png); }
+	.ultm-48.ultm-deviantart { background-image: url(../ultm-bg-images/40x40/deviantart.png); }
+	.ultm-48.ultm-wordpress { background-image: url(../ultm-bg-images/40x40/wordpress.png); }
+	.ultm-48.ultm-github-1 { background-image: url(../ultm-bg-images/40x40/github-1.png); }
+	.ultm-48.ultm-stumbleupon { background-image: url(../ultm-bg-images/40x40/stumbleupon.png); }
+	.ultm-48.ultm-behance { background-image: url(../ultm-bg-images/40x40/behance.png); }
+	.ultm-48.ultm-tumblr { background-image: url(../ultm-bg-images/40x40/tumblr.png); }
+	.ultm-48.ultm-feedburner-1 { background-image: url(../ultm-bg-images/40x40/feedburner-1.png); }
+	.ultm-48.ultm-android { background-image: url(../ultm-bg-images/40x40/android.png); }
+	.ultm-48.ultm-apple { background-image: url(../ultm-bg-images/40x40/apple.png); }
+	.ultm-48.ultm-email-1 { background-image: url(../ultm-bg-images/40x40/email-1.png); }
+	.ultm-48.ultm-blogger { background-image: url(../ultm-bg-images/40x40/blogger.png); }
+
+}
