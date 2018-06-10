@@ -91,11 +91,21 @@ nav a:focus { color: #fff; }
 }
 
 .coming-soon .logo a {
-	display: inline-block;
-	width: 301px;
-	height: 205px;
-	background: url(../img/pulpo2017-301x205.png) center center no-repeat;
-	text-indent: -99999px;
+    display: inline-block;
+    height: 250px;
+    width: 100%;
+    background: url(../img/LogoGeoCamp-minus.png) center center no-repeat;
+    text-indent: -99999px;
+    background-size: contain;
+}
+
+.coming-soon .logo a:hover {
+    display: inline-block;
+    height: 250px;
+    width: 100%;
+    background: url(../img/LogoGeoCamp-minus-hover.png) center center no-repeat;
+    text-indent: -99999px;
+    background-size: contain;
 }
 
 .coming-soon h2 {
@@ -498,6 +508,13 @@ nav a:focus { color: #fff; }
 
 .whos-behind-box-1 .whos-behind-photo .whos-behind-social a {
 	margin: 0 4px;
+}
+
+/** Camiseta **/
+.camiseta-container {
+	text-align: center;
+    padding-bottom: 80px;
+    color: #FFF;
 }
 
 /** Patrocinadores **/

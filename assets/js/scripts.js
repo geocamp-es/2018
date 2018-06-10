@@ -25,6 +25,7 @@ jQuery(document).ready(function() {
 		else if(element_class == 'menu-project') { scroll_to = $(".about").offset().top - nav_height - 60; }
 		// else if(element_class == 'menu-testimonials') { scroll_to = $(".testimonials").offset().top - nav_height - 60; }
 		else if(element_class == 'menu-about-us') { scroll_to = $(".whos-behind").offset().top - nav_height - 60; }
+		else if(element_class == 'menu-camiseta') { scroll_to = $(".camiseta").offset().top - nav_height - 60; }
 		else if(element_class == 'menu-patrocinadores') { scroll_to = $(".patrocinadores").offset().top - nav_height - 60; }
 		else if(element_class == 'menu-mapa') { scroll_to = $(".map").offset().top - nav_height /*- 60*/; }
 		else if(element_class == 'menu-organizacion') { scroll_to = $(".organizadores").offset().top - nav_height - 60; }
@@ -45,7 +46,9 @@ jQuery(document).ready(function() {
     ], {duration: 3000, fade: 750});
     
     $('.about-container').backstretch("assets/img/backgrounds/4.jpg");
-    
+	
+	$('.camiseta-container').backstretch("assets/img/backgrounds/5.jpg");
+
     $('.whos-behind-container').backstretch("assets/img/backgrounds/5.jpg");
 
     $('.registro-container').backstretch("assets/img/backgrounds/3.jpg");
@@ -53,7 +56,7 @@ jQuery(document).ready(function() {
     /*
         Countdown initializer
     */
-    var now = new Date("2018/10/06");
+    var now = new Date("2018/10/20");
     var countTo = now.valueOf();  
     $('.timer').countdown(countTo, function(event) {
     	$(this).find('.days').text(event.offset.totalDays);
