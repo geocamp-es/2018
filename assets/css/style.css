@@ -109,13 +109,13 @@ nav a:focus { color: #fff; }
 }
 
 .coming-soon h2 {
-    color : #e8643e;
+    color : #e8e8e8;
     font-size: 50px;
     font-weight: bold;
 }
 
 .coming-soon h3 {
-    color : #e8643e;
+    color : #e8e8e8;
     font-size: 28px;
     font-weight: bold;
 }
@@ -748,14 +748,14 @@ span.important {
 
 footer {
 	padding: 20px 0 16px 0;
-	background: #3d3d3d;
+	background:rgba(255, 255, 255, 0.85);
 }
 
 .footer-copyright p {
 	margin: 0;
 	font-size: 18px;
     line-height: 32px;
-    color: #fff;
+    color: #333333;
 }
 
 .footer-social {
