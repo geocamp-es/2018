@@ -300,6 +300,10 @@ nav a:focus { color: #fff; }
 	margin-top: 30px;
 }
 
+.about-box-1 a {
+  color: #ffffff;
+}
+
 .about-box-1 h4 {
 	padding: 10px 0;
 	font-size: 30px;
