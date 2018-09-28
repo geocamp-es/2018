@@ -530,6 +530,57 @@ nav a:focus { color: #fff; }
 	/*background-color:*/
 }
 
+.text--bold {
+    font-weight: 500!important;
+}
+.accordionPanel-icon, .accordionPanel-label, .button, .buttonPersonality, .goingButton, .notification, .toggleButton-label {
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    cursor: pointer;
+    text-decoration: none!important;
+    user-select: none;
+}
+.button--primary, .button--primary svg {
+    fill: #fff;
+    stroke: transparent;
+}
+.button--primary {
+    background: #f13a59;
+    color: #fff;
+}
+a, button {
+    color: inherit;
+    text-decoration: none;
+}
+.button {
+    -ms-flex-align: center;
+    -ms-flex-direction: row;
+    -ms-flex-pack: center;
+    -webkit-appearance: none;
+    -webkit-box-align: center;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-box-pack: center;
+    -webkit-box-sizing: border-box;
+    -webkit-transition: background .15s;
+    align-items: center;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: #fff;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    flex-direction: row;
+    font-size: 14px;
+    justify-content: center;
+    line-height: 1.6;
+    outline: 0;
+    padding: 8px 32px;
+    transition: background .15s;
+    vertical-align: middle;
+}
+
 .logos-patrocinadores {
     margin-top: 20px;
 }
