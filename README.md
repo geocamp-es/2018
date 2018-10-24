@@ -20,3 +20,4 @@ https://2018.geocamp.es/
 * Uso de las Infraestructuras de Datos Espaciales en Arqueoastronomía por José Gómez Castaño [[slides](https://drive.google.com/open?id=1Tx6rQdkKCWjX7SIZtly6pISrp8orLWS0)]
 * CARTO VL y Airship por Ramiro Aznar de CARTO [[slides](http://bit.ly/geocamp-carto)]
 * QGIS FMV por Fran Raga de Inspide [[slides](https://slides.com/franraga/qgis-fmv/fullscreen#/)]
+* QGIS SWAT por Toni Bolinches de la UCM [[slides](https://drive.google.com/open?id=1SO2e_-l0uln17ez5LegRD_qw5trvkACD)]
