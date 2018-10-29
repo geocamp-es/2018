@@ -22,3 +22,11 @@ https://2018.geocamp.es/
 * QGIS FMV por Fran Raga de Inspide [[slides](https://slides.com/franraga/qgis-fmv/fullscreen#/)]
 * QGIS SWAT por Toni Bolinches de la UCM [[slides](https://drive.google.com/open?id=1SO2e_-l0uln17ez5LegRD_qw5trvkACD)]
 * Las calles de las mujeres por Carmen Díez de Geochicas [[web](https://geochicasosm.github.io/lascallesdelasmujeres/)]
+
+# Análisis Interno
+
+[Análisis Interno](https://docs.google.com/document/d/1Lo743U6bzPfnohGR3EUMeMRdw5aoOe9SU90Ivyjz9gA/edit?usp=sharing) donde se describen los resultados de presupuesto, patrocinadores y asistencia, así como el análisis en estrella para mejorar futuras ediciones.
+
+# Encuesta de los asistentes
+
+[Resultados](https://docs.google.com/spreadsheets/d/18mrDihZ3Xq5SSYxCasTgLFKeU2zSWfBjGxrVwChOzFw/edit?usp=sharing).
