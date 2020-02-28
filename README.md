@@ -33,4 +33,4 @@ https://2018.geocamp.es/
 
 # Entrevista
 
-[Congreso Nacional Geo Camp 2018 en International Lab Madrid](https://www.youtube.com/watch?v=Z0adkrLqj9Q).
+[Congreso Nacional GeoCamp 2018 en International Lab Madrid](https://www.youtube.com/watch?v=Z0adkrLqj9Q).
