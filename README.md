@@ -30,3 +30,7 @@ https://2018.geocamp.es/
 # Encuesta de los asistentes
 
 [Resultados](https://docs.google.com/spreadsheets/d/18mrDihZ3Xq5SSYxCasTgLFKeU2zSWfBjGxrVwChOzFw/edit?usp=sharing).
+
+# Entrevista
+
+[Entrevista](https://www.youtube.com/watch?v=Z0adkrLqj9Q).
