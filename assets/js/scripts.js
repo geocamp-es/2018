@@ -39,11 +39,7 @@ jQuery(document).ready(function() {
     /*
         Background slideshow
     */
-    $('.coming-soon').backstretch([
-      "assets/img/backgrounds/3.jpg"
-    , "assets/img/backgrounds/1.jpg"
-    , "assets/img/backgrounds/2.jpg"
-    ], {duration: 3000, fade: 750});
+    $('.coming-soon').backstretch("assets/img/backgrounds/1.jpg");
     
     $('.about-container').backstretch("assets/img/backgrounds/4.jpg");
 	
@@ -56,7 +52,7 @@ jQuery(document).ready(function() {
     /*
         Countdown initializer
     */
-    var now = new Date("2018/10/20");
+    var now = new Date("2023/09/30");
     var countTo = now.valueOf();  
     $('.timer').countdown(countTo, function(event) {
     	$(this).find('.days').text(event.offset.totalDays);
