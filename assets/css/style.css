@@ -94,7 +94,7 @@ nav a:focus { color: #fff; }
     display: inline-block;
     height: 250px;
     width: 100%;
-    background: url(../img/LogoGeoCamp-minus.png) center center no-repeat;
+    background: url(../img/logo-geocamp-2023.png) center center no-repeat;
     text-indent: -99999px;
     background-size: contain;
 }
@@ -103,7 +103,7 @@ nav a:focus { color: #fff; }
     display: inline-block;
     height: 250px;
     width: 100%;
-    background: url(../img/LogoGeoCamp-minus-hover.png) center center no-repeat;
+    background: url(../img/logo-geocamp-2023-hoover.png) center center no-repeat;
     text-indent: -99999px;
     background-size: contain;
 }
