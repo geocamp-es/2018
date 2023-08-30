@@ -549,7 +549,7 @@ nav a:focus { color: #fff; }
     background: #f13a59;
     color: #fff;
 }
-a, button {
+button {
     color: inherit;
     text-decoration: none;
 }
