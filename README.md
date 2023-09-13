@@ -25,7 +25,7 @@ https://2018.geocamp.es/
 
 # Análisis Interno
 
-[Análisis Interno](https://docs.google.com/document/d/1Lo743U6bzPfnohGR3EUMeMRdw5aoOe9SU90Ivyjz9gA/edit?usp=sharing) donde se describen los resultados de presupuesto, patrocinadores y asistencia, así como el análisis en estrella para mejorar futuras ediciones.
+[Análisis Interno]([https://docs.google.com/document/d/1Lo743U6bzPfnohGR3EUMeMRdw5aoOe9SU90Ivyjz9gA/edit?usp=sharing](https://drive.google.com/file/d/1rfilZOOd2TskAKw_HoNhQa1ftd4MVQma/view?usp=drive_link) donde se describen los resultados de presupuesto, patrocinadores y asistencia, así como el análisis en estrella para mejorar futuras ediciones.
 
 # Encuesta de los asistentes
 
